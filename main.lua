@@ -1,7 +1,4 @@
 --
--- !BetterFont
--- written by Tobias Schulz (grdn) 2011, EU-Onyxia (Germany)
---
 -- Little tweak which enables a new default font to your UI.
 --
 
