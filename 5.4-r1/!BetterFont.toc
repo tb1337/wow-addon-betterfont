@@ -1,7 +1,0 @@
-## Interface: 50400
-## Title: !BetterFont
-## Version: 5.4-r1
-## Notes: Little tweak which enables a new default font to your UI.
-## Author: grdn
-
-main.lua
