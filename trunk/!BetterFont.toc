@@ -1,6 +1,6 @@
-## Interface: 60000
+## Interface: 60100
 ## Title: !BetterFont
-## Version: 6.0.2-r1
+## Version: 6.1.1
 ## Notes: Little tweak which enables a new default font to your UI.
 ## Author: grdn
 
