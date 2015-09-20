@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: !BetterFont
+## Version: 6.2.1
+## Notes: Little tweak which enables a new default font to your UI.
+## Author: grdn
+
+main.lua
