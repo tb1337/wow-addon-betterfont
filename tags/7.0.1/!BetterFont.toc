@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: !BetterFont
+## Version: 7.0.1
+## Notes: Little tweak which enables a new default font to your UI.
+## Author: grdn
+
+main.lua
