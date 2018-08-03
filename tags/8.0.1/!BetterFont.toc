@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: !BetterFont
+## Version: 8.0.1
+## Notes: Little tweak which enables a new default font to your UI.
+## Author: grdn
+
+main.lua
