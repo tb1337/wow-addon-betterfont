@@ -1,6 +1,6 @@
-## Interface: 80000
+## Interface: 80100
 ## Title: !BetterFont
-## Version: 8.0.2
+## Version: 8.1.0
 ## Notes: Little tweak which enables a new default font to your UI.
 ## Author: grdn
 
